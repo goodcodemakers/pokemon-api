@@ -1,0 +1,19 @@
+body {
+  margin: 0 auto;
+  width: 1000px;
+  border: 1px solid #000;
+}
+#poke-list {
+}
+.item {
+  background-color: lightblue;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+h3 {
+  font-size: 34px;
+}
+p {
+  font-size: 20px;
+}
